@@ -1,0 +1,19 @@
+# Jobs
+# DevOps Developer
+- company: Skillmine Technilogy Consulting Pvt Ltd
+  position: DevOps Developer
+  duration: June, 2023 &mdash; Present
+  summary: Responsible for managing multiple Kubernetes clusters as well as implimentation of CICD pipelines. The responsibilities included	<ul class="resume-item-list"><li>Optimizing pods distribution on nodes</li><li>Optimization of Docker images</li><li>Automated security testing via pipelines</li><li>Orchestrated the deployment and management of Kubernetes clusters, emphasizing security and scalability, while configuring and managing AWS Gateway for seamless service communication</li><li>mplemented CI/CD pipelines for Ecofy applications to enhance software delivery efficiency, collaborating with developmentteams to troubleshoot and resolve pipeline issues.</li><li>Ensured the security of sensitive data by integrating GitLab with HashiCorp Vault for secret management, while automatingdeployment processes using Bash scripting to reduce manual errors</li></ul>
+
+# DevOps Engineer
+- company: WEBELIGHT SOLUTIONS PVT. LTD
+  position: DevOps Engineer
+  duration:  Jan, 2023 &mdash; April, 2023
+  summary: Rich experience with key responsibilities in <ul class="resume-item-list"><li>Configured and deployed SuiteCRM on EC2 servers with domain and SSL, while setting up monitoring with Grafana, Prometheus, InfluxDB, and Alert Manager.</li><li>Implemented CI/CD pipelines for Node.js, React applications, and Docker images using Jenkins, reducing code duplicacy with shared libraries and groovy functions.</li><li>Automated infrastructure deployment with Terraform for EC2 instances, RDS databases, VPCs, and Elastic Cache, securing databases using VPC and bastion host.</li><li>Analyzed system logs using ELK for troubleshooting, created Docker pipelines for Node.js applications, and set up WordPress and MySQL containers using Docker Compose.</li></ul>
+
+
+# Communications Coordinator
+- company: YOBNY TECH
+  position: DevOps Intern
+  duration:   Nov, 2022  &mdash; Jan, 2023
+  summary: Contributed to a Cloud Migration project, assisting in transitioning a SaaS application from AWS to Azure using the Azure UI. <ul class="resume-item-list"><li>Contributed to a Cloud Migration project, assisting in transitioning a SaaS application from AWS to Azure using the Azure UI.</li><li>Gained hands-on experience with Azure infrastructure and cloud migration strategies.</li><li>Managed and maintained domain settings on GoDaddy and Azure, collaborating closely with the team to ensure secure access and responsible handling of sensitive information.</li></ul>
